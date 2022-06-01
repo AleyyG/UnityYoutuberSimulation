@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b82a13d0a98163c468e2bd22d19bd27f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Shortbread _ Cookies
+  fontNames:
+  - Shortbread _ Cookies
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8833a7b16b0fe0440aea4509ee074b3a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
